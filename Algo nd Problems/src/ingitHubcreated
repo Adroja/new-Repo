@@ -1,12 +1,21 @@
 no data
 <<<<<<< HEAD
-1.manish
+want only this from github
 2.Aaddrroojjaa
 =======
-1.mmaanniosshh
+<<<<<<< HEAD
+manish
+=======
+>>>>>>> branch 'master' of git@github.com:Adroja/new-Repo.git
 2.Adroja
 >>>>>>> branch 'master' of git@github.com:Adroja/new-Repo.git
 
+<<<<<<< HEAD
 want only this from eclipse
 
 edited this line in glthub2
+=======
+want only git added from eclipse
+
+edited this line in github
+>>>>>>> branch 'master' of git@github.com:Adroja/new-Repo.git
